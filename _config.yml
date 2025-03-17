@@ -2,3 +2,7 @@ title: "Knowledge Wiki"
 baseurl: "/knowledge_wiki"
 url: "fancyboy96.github.io"
 theme: minima  # Or another Jekyll theme
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
