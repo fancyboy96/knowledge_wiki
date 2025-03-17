@@ -4,5 +4,4 @@ layout: default
 ---
 # Welcome to the Knowledge Wiki
 Choose a topic:
-- [Topic 1](topic1)
-- [Topic 2](topic2)
+- [Topic 1](test_file_1.md)
