@@ -6,3 +6,8 @@ theme: minima  # Or another Jekyll theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
